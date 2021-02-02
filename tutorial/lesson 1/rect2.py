@@ -1,4 +1,6 @@
+import pygame
 from rect import *
+
 
 def draw_point(text, pos):
     img = font.render(text, True, BLACK)
