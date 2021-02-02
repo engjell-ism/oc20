@@ -1,2 +1,7 @@
 # oc20
-Travail d'OC 2021
+
+## But
+
+- créer un jeux
+
+
